@@ -1,8 +1,5 @@
 # PostHocSelectionBiasExample
-% A typical experimental design involves applying a range of treatments to
-% different participants and testing if these treatments have an effect.
-% This is a good experimental design if one tests whether treatment A has
-% an effect compared to the null condition, for example. But one thing that is not
+A typical experimental design involves applying a range of treatments to different participants and testing if these treatments have an effect. This is a good experimental design if one tests whether treatment A has an effect compared to the null condition, for example. But one thing that is not
 % OK is to select the treatment that has the largest effect for each
 % participant (treatment B for participant 1, treatment C for participant
 % 2, etc.), averaging these effects across participants, and then
